@@ -8,4 +8,5 @@ This Repository is for our branching and merge conflict activity.
 
 Ask us questions through the Issues tab. 
 
+Any trolls and pranks will not be tolerated. 
 hello? ni hao?
