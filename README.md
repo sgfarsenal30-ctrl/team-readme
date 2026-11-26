@@ -2,6 +2,7 @@
 
 ## About
 
+Hi! I am Student A, a Grade 9 student for 2026-2027. I am currently part of the first batch to experience the new curriculum. 
 I am Student B, Nathaniel C. Asaria, my wanted course is engineering, my section is Cesium, and my adviser is Sir Paulo.
 
 ## Members
