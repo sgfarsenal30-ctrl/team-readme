@@ -2,7 +2,7 @@
 
 ## About
 
-This Repository is for our branching and merge conflict activity.
+I am Student B, Nathaniel C. Asaria, my wanted course is engineering, my section is Cesium, and my adviser is Sir Paulo.
 
 ## Members
 | Name | Role | Github Username |
